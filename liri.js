@@ -54,6 +54,8 @@ function liriInfo() {
 	console.log('movie-this'.green.bold, "followed by movie name displays movie details...like year released, actors, plot etc...");
 	console.log('do-what-it-says'.green.bold, "reads file and executes the command to give results," + 
 		"specifically info about song 'I like it this way'");
+	console.log("------------------------------------------------------------------------");
+	console.log('LIRI'.green.bold,  "also writes command and data to a text file log.txt");
 	console.log("========================================================================")
 }
 if(!value)
@@ -97,15 +99,15 @@ var displaySpotifyResults = function (err, data){
     		return console.log('Error occurred: ' + err);
   		}
  		else {
- 			var temp = 'spotify-this-song ' + query1;
- 			myLog(temp, false);
+ 			//var temp = 'spotify-this-song ' + query1;
+ 			//myLog(temp, false);
  			var songInfo = data.tracks.items;
  			for (var i = 0; i< data.tracks.items.length; i++) {
-	    		mylog(">>>>>Artist: ".bold.blue, songInfo[i].artists[0].name)
-	            console.log("Song Name: ".bold.blue, songInfo[i].name)
-	            console.log("Album Name: ".bold.blue, songInfo[i].album.name)
-	            console.log("Preview Link:".bold.blue, songInfo[i].preview_url) 
-	            console.log("===========================================================")
+	    		myLog(">>>>>Artist: ".bold.blue + songInfo[i].artists[0].name)
+	            myLog("Song Name: ".bold.blue + songInfo[i].name)
+	            myLog("Album Name: ".bold.blue + songInfo[i].album.name)
+	            myLog("Preview Link: ".bold.blue + songInfo[i].preview_url) 
+	            myLog("===========================================================")
         	} //end-of-for loop
  		} //end of else part
 	}; //end of spotify search function
@@ -150,16 +152,19 @@ function movieThis(){
 
 		if (!error && response.statusCode === 200) {
 
+			var temp = 'movie-this ' + movieName2;
+			myLog(temp, false);
+
     	// Parse the body of the site and recovering the results
-    		console.log("==========================================================");
-	    	console.log("The movie title is:".bold.underline + JSON.parse(body).Title);
-		    console.log("The movie's release date is:".bold.underline + JSON.parse(body).Released);
-		    console.log("IMDB Rating is:".bold.underline + JSON.parse(body).imdbRating);
-		    console.log("Country[ies]:".bold.underline+ JSON.parse(body).Country);
-		    console.log("The movie Language is:".bold.underline + JSON.parse(body).Language);
-		    console.log("The movie plot is:".bold.underline+ JSON.parse(body).Plot);
-		    console.log("The movie actors are:".bold.underline+ JSON.parse(body).Actors);
-		    console.log("===========================================================");
+    		myLog("==========================================================");
+	    	myLog("The movie title is:".bold.underline + JSON.parse(body).Title);
+		    myLog("The movie's release date is:".bold.underline + JSON.parse(body).Released);
+		    myLog("IMDB Rating is:".bold.underline + JSON.parse(body).imdbRating);
+		    myLog("Country[ies]:".bold.underline+ JSON.parse(body).Country);
+		    myLog("The movie Language is:".bold.underline + JSON.parse(body).Language);
+		    myLog("The movie plot is:".bold.underline+ JSON.parse(body).Plot);
+		    myLog("The movie actors are:".bold.underline+ JSON.parse(body).Actors);
+		    myLog("===========================================================");
   	}
 }); //end of request
 
@@ -174,13 +179,15 @@ else
 //reading from file system
 
 function doWhatItSays(){
-	var fs = require("fs");
+	
+	myLog('do-what-it-says', false);
 	fs.readFile("random.txt", "utf-8", function(error, data){
 		if (error)
 			return console.log(error);
 	
 		//console.log(data);
 		var dataArr = data.split(",");
+		
 		//console.log(dataArr);
 
 		// for(var i=0; i<dataArr.length; i++) {
@@ -190,6 +197,7 @@ function doWhatItSays(){
 		// }
 		if(dataArr[0] === 'spotify-this-song') {
 			query1 = dataArr[1];
+			//console.log(query1);
 			spotifyThisSong();
 		}
 
