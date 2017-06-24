@@ -164,6 +164,7 @@ function movieThis(){
 		    myLog("The movie Language is:".bold.underline + JSON.parse(body).Language);
 		    myLog("The movie plot is:".bold.underline+ JSON.parse(body).Plot);
 		    myLog("The movie actors are:".bold.underline+ JSON.parse(body).Actors);
+		    myLog("The rotten tomatoes website:".bold.underline + 'https://www.rottentomatoes.com/');
 		    myLog("===========================================================");
   	}
 }); //end of request

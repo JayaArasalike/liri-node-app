@@ -742,3 +742,232 @@ movie-this lion+
 [4m[1mThe movie plot is:[22m[24mA five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.
 [4m[1mThe movie actors are:[22m[24mSunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki
 ===========================================================
+movie-this lion+
+==========================================================
+[4m[1mThe movie title is:[22m[24mLion
+[4m[1mThe movie's release date is:[22m[24m06 Jan 2017
+[4m[1mIMDB Rating is:[22m[24m8.1
+[4m[1mCountry[ies]:[22m[24mAustralia, USA, UK
+[4m[1mThe movie Language is:[22m[24mEnglish, Hindi, Bengali
+[4m[1mThe movie plot is:[22m[24mA five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.
+[4m[1mThe movie actors are:[22m[24mSunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki
+[4m[1mThe rotten tomatoes website is:[22m[24mhttps://www.rottentomatoes.com/
+===========================================================
+movie-this lion+
+==========================================================
+[4m[1mThe movie title is:[22m[24mLion
+[4m[1mThe movie's release date is:[22m[24m06 Jan 2017
+[4m[1mIMDB Rating is:[22m[24m8.1
+[4m[1mCountry[ies]:[22m[24mAustralia, USA, UK
+[4m[1mThe movie Language is:[22m[24mEnglish, Hindi, Bengali
+[4m[1mThe movie plot is:[22m[24mA five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.
+[4m[1mThe movie actors are:[22m[24mSunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki
+[4m[1mThe rotten tomatoes website:[22m[24mhttps://www.rottentomatoes.com/
+===========================================================
+my-tweets
+Hello[35m published on [39mMon Jun 19 19:19:28 +0000 2017
+@sarcasticmommy4 @ScaryMommy Since then, do they do vaccum and laundry?[35m published on [39mMon Jun 19 18:34:48 +0000 2017
+@NASA Beautiful![35m published on [39mMon Jun 19 16:47:10 +0000 2017
+@KentWGraham @ScaryMommy Wise man![35m published on [39mSun Jun 18 17:52:39 +0000 2017
+@ScaryMommy funny 😀[35m published on [39mSun Jun 18 17:50:38 +0000 2017
+[34m[1m>>>>>Artist: [22m[39mLil Durk
+[34m[1mSong Name: [22m[39mWaffle House
+[34m[1mAlbum Name: [22m[39m300 Days 300 Nights
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/f34e4ffc5bd5834aa0014b5d07478e2081dd81f8?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mSevendust
+[34m[1mSong Name: [22m[39mWaffle
+[34m[1mAlbum Name: [22m[39mHome
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/1b8620a868be0eea81edc38c349b2d65598b5d1d?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mmt. fujitive
+[34m[1mSong Name: [22m[39mWaffle Break
+[34m[1mAlbum Name: [22m[39mWinter Weibs
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/28cc37a68425dce10d6b94784005375c7ed01a48?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mBotnek
+[34m[1mSong Name: [22m[39mWaffle House
+[34m[1mAlbum Name: [22m[39mWaffle House
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/36d97aebcbbe4e6642cd270188762c61a1c28c41?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mColt Ford
+[34m[1mSong Name: [22m[39mWaffle House Featuring Sunny Ledfurd
+[34m[1mAlbum Name: [22m[39mRide Through the Country
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/b5493ace07011242a759cdc8cc5a119518d3f6bb?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mJim Gaffigan
+[34m[1mSong Name: [22m[39mWaffle House
+[34m[1mAlbum Name: [22m[39mKing Baby
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/8510ae976c64d558b9d041cdb2577852f372935d?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mCharlie Blvck
+[34m[1mSong Name: [22m[39mWaffle House
+[34m[1mAlbum Name: [22m[39mDark Lost
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/28388bd9f6de1c361e207762d24d9558c6345a2e?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mColt Ford
+[34m[1mSong Name: [22m[39mWaffle House (feat. John Anderson)
+[34m[1mAlbum Name: [22m[39mRide Through the Country (Revisited)
+===========================================================
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/379da4c865fb17a979cb2ba8008728cb51968fd1?cid=d7371510c05541d6a22c178441f87827
+[34m[1m>>>>>Artist: [22m[39mIdontknowjeffery
+[34m[1mSong Name: [22m[39mFree Waffle
+[34m[1mAlbum Name: [22m[39mThe Jeffery Compilation
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/a1c7c9966047ab5e324a4b3e42558f499f7317fc?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mThe Marcus King Band
+[34m[1mSong Name: [22m[39mFraudulent Waffle
+[34m[1mAlbum Name: [22m[39mSoul Insight
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/3ae599466f105a085e97ffbd0256b46df2287c8c?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mLittle People
+[34m[1mSong Name: [22m[39mOffal Waffle
+[34m[1mAlbum Name: [22m[39mWe Are But Hunks Of Wood
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/bd65cdae8fa481305549ec47befe365fb6d198bd?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mDJ Booger
+[34m[1mSong Name: [22m[39mTeen Waffle Titans Song Go
+[34m[1mAlbum Name: [22m[39mTeen Waffle Titans Song Go
+===========================================================
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/f670016f2bc14801fa76a958659e2d012e8bd902?cid=d7371510c05541d6a22c178441f87827
+[34m[1m>>>>>Artist: [22m[39mColt Ford
+[34m[1mSong Name: [22m[39mWaffle House
+[34m[1mAlbum Name: [22m[39mLive from Suwannee River Jam
+===========================================================
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/af3f3a2f6ed49502abf311146df42662464524c6?cid=d7371510c05541d6a22c178441f87827
+[34m[1m>>>>>Artist: [22m[39mTru Heru
+[34m[1mSong Name: [22m[39mWaffle House (feat. Doja Cat)
+[34m[1mAlbum Name: [22m[39mThe Art of Dying
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/dfaca8d80703c60640d877f61e33222313032518?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mSevendust
+[34m[1mSong Name: [22m[39mWaffle (Tom Lord-Alige Mix)
+[34m[1mAlbum Name: [22m[39mBest Of (Chapter One 1997-2004)
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/6fc33557b15f1d332210ec8ce5e45e1531cef0b0?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mThe Marcus King Band
+[34m[1mSong Name: [22m[39mFraudulent Waffle
+[34m[1mAlbum Name: [22m[39mFraudulent Waffle
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/2dfff14244b19d28ba12f7002d5fa04636824dda?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mSunny Day Real Estate
+[34m[1mSong Name: [22m[39mWaffle
+[34m[1mAlbum Name: [22m[39mLP2
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/91905593843bfbfdac8a9ab0a8408e3581247073?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mBezz Believe
+[34m[1mSong Name: [22m[39mWaffle House Stories
+[34m[1mAlbum Name: [22m[39mWaffle House Stories
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/1620ae80680247ef6d3132413fe6092e28be52f1?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mLittle People
+[34m[1mSong Name: [22m[39mOffal Waffle (Emancipator Remix)
+[34m[1mAlbum Name: [22m[39mWe Are but Hunks of Wood Remixes
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/727778d99c7235aebb9d25484d7c697e4b010412?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39m"Weird Al" Yankovic
+[34m[1mSong Name: [22m[39mWaffle King
+[34m[1mAlbum Name: [22m[39mAlapalooza
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/8e52d75e15206ac5d0a4b1911de9d16536bbf585?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+do-what-it-says
+[34m[1m>>>>>Artist: [22m[39mBackstreet Boys
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1mAlbum Name: [22m[39mThe Hits--Chapter One
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1m>>>>>Artist: [22m[39mBackstreet Boys
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d7371510c05541d6a22c178441f87827
+[34m[1mAlbum Name: [22m[39mMillennium
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mBackstreet Boys
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1mAlbum Name: [22m[39mThe Essential Backstreet Boys
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mBackstreet Boys
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1mAlbum Name: [22m[39m90 Sweet 90s Hits!
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mGlee Cast
+[34m[1mAlbum Name: [22m[39mBye Bye Bye / I Want It That Way (Glee Cast Version)
+[34m[1mSong Name: [22m[39mBye Bye Bye / I Want It That Way (Glee Cast Version)
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mAnthem Lights
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1mAlbum Name: [22m[39mCovers Part IV
+===========================================================
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d7371510c05541d6a22c178441f87827
+[34m[1m>>>>>Artist: [22m[39mDynamite Boy
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1mAlbum Name: [22m[39mPunk Goes Pop
+[34m[1mPreview Link: [22m[39mnull
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mKyle Olthoff
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1mAlbum Name: [22m[39mI Want It That Way
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mBrittany Howard
+[34m[1mAlbum Name: [22m[39mI Want It That Way
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=d7371510c05541d6a22c178441f87827
+[34m[1mSong Name: [22m[39mI Want It That Way
+===========================================================
+[34m[1m>>>>>Artist: [22m[39m"Weird Al" Yankovic
+[34m[1mSong Name: [22m[39mEbay (Parody of "I Want It That Way" by the Backstreet Boys)
+[34m[1mAlbum Name: [22m[39mPoodle Hat
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mBoyce Avenue
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1mAlbum Name: [22m[39mNew Acoustic Sessions, Vol. 3
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39m"Weird Al" Yankovic
+[34m[1mSong Name: [22m[39mEbay (Parody of "I Want It That Way" by the Backstreet Boys)
+[34m[1mAlbum Name: [22m[39mThe Essential "Weird Al" Yankovic
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1m>>>>>Artist: [22m[39mSteel Panther
+[34m[1mAlbum Name: [22m[39mI Want It That Way
+[34m[1mPreview Link: [22m[39mnull
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mLandon Austin & Julia Sheer
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1mAlbum Name: [22m[39mI Want It That Way
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mBackstreet Boys
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1mAlbum Name: [22m[39mNOW That's What I Call 90s Pop
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mBackstreet Boys
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1mAlbum Name: [22m[39mNKOTBSB
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mScott Bradlee's Postmodern Jukebox
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1mAlbum Name: [22m[39mSelfies on Kodachrome
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mJason Chen
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1mAlbum Name: [22m[39mI Want It That Way
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mScott Bradlee's Postmodern Jukebox
+[34m[1mSong Name: [22m[39mI Want It That Way
+[34m[1mAlbum Name: [22m[39mPMJ Is For Lovers: The Love Song Collection
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d7371510c05541d6a22c178441f87827
+===========================================================
+[34m[1m>>>>>Artist: [22m[39mKaiak
+[34m[1mSong Name: [22m[39mI Want It That Way - Acoustic
+[34m[1mAlbum Name: [22m[39mI Want It That Way (Acoustic)
+[34m[1mPreview Link: [22m[39mhttps://p.scdn.co/mp3-preview/6aa034496f6f07cb425d1ff8d0e2a2f8d61acfbc?cid=d7371510c05541d6a22c178441f87827
+===========================================================
